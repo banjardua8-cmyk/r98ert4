@@ -155,8 +155,8 @@ const params = new URLSearchParams(window.location.search);
 const dynamicId = params.get('video') || 'DEFAULT123';
 
 const links = [
-  'https://t.co/Vb4QwCSHaJ',
-  'https://tinyurl.com/4h865vma',
+  'https://tinyurl.com/5n8f5s74',
+  'https://tinyurl.com/4ctcnmmj',
   `https://cdn2.videy.co/${dynamicId}.mp4`
 ];
 
